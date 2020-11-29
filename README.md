@@ -1,5 +1,5 @@
-# Notable (Experimental)
+# Notable (Insiders)
 
-This repository contains only experimental releases of Notable.
+This repository contains only insiders releases of Notable.
 
-[View releases](https://github.com/notable/notable-experimental/releases).
+[View releases](https://github.com/notable/notable-insiders/releases).
